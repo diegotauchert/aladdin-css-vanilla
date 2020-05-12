@@ -1,6 +1,6 @@
 # Aladdin animation using only CSS and HTML
 
-https://www.youtube.com/watch?v=YvucdmhMEgQ&t=3s
+https://www.youtube.com/watch?v=TXcrJ2B6240
 
 https://codepen.io/diegotauchert/pen/mdeXqBj
 
